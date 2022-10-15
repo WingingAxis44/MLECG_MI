@@ -1,0 +1,14 @@
+numpy
+pandas
+tensorflow
+tensorboard
+h5py
+scipy
+scikit-learn
+seaborn
+wfdb
+tk
+matplotlib
+tabulate
+imbalanced-learn
+biosppy
